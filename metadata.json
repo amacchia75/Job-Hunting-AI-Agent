@@ -1,0 +1,6 @@
+{
+  "name": "Job Hunting AI Agent",
+  "description": "An automated job hunting agent that matches your CV with real-time job postings using AI and SerpApi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
